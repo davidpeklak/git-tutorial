@@ -9,3 +9,7 @@ bananas
 raspberry jam
 hazelnuts
 wallnuts
+chedar
+gryere
+mozarella
+
